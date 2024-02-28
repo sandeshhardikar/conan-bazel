@@ -1,0 +1,5 @@
+[settings]
+os=Linux
+arch=armv8.3
+
+build_type=Debug
